@@ -1,3 +1,5 @@
+Also known as the publish/subscribe pattern or 'pubsub'.
+
 ```ruby
 require 'observer'
   
