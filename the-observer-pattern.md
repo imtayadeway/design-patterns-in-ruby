@@ -1,4 +1,5 @@
-## The Observer Pattern
+The Observer Pattern
+--------------------
 
 Also known as the publish/subscribe pattern or 'pubsub'. 
 
@@ -53,7 +54,7 @@ fred.salary = 35000.0
 # => Send fred a new tax bill!
 ```
 
-### Code blocks as observers
+### Code blocks as observers:
 
 ```ruby
 module Subject
