@@ -5,6 +5,8 @@ The Strategy Pattern
 2. The user of the strategy (the context) can treat the strategies like interchangeble parts.
 3. The context can pass in arguments (low coupling), or if it is too complex can pass in itself as an argument (high coupling).
 
+### Class-based Strategies:
+
 ```ruby
 class HTMLFormatter
   def output_report(title, text)
@@ -84,5 +86,14 @@ HTML_FORMATTER = lambda do |context|
 end
 
 report = Report.new(&HTML_FORMATTER)
+report.output_report
+
+report = Report.new do |context|
+  puts "**** #{ context.title } ****"
+  context.text.each do |line|
+    puts line
+  end
+end
+
 report.output_report
 ```
