@@ -1,7 +1,7 @@
-design-patterns-in-ruby
+Design Patterns In Ruby
 =======================
 
-My notes from the book of the same name.
+Notes from the book of the same name, by Russ Olsen.
 
 * [Chapters](/chapters)
   * [The Template Method Pattern](/chapters/the-template-method-pattern)
