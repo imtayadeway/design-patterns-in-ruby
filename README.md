@@ -7,3 +7,4 @@ My notes from the book of the same name.
   * [The Template Method Pattern](/chapters/the-template-method-pattern)
   * [The Strategy Pattern](/chapters/the-strategy-pattern)
   * [The Observer Pattern](/chapters/the-observer-pattern)
+  * [The Composite Pattern](/chapters/the-composite-pattern)
