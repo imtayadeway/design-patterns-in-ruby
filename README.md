@@ -10,3 +10,4 @@ Notes from the book of the same name, by Russ Olsen.
   * [The Composite Pattern](/chapters/the-composite-pattern)
   * [The Iterator Pattern](/chapters/the-iterator-pattern)
   * [The Command Pattern](/chapters/the-command-pattern)
+  * [The Adapter Pattern](/chapters/the-adapter-pattern)
