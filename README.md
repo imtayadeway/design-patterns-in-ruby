@@ -9,3 +9,4 @@ Notes from the book of the same name, by Russ Olsen.
   * [The Observer Pattern](/chapters/the-observer-pattern)
   * [The Composite Pattern](/chapters/the-composite-pattern)
   * [The Iterator Pattern](/chapters/the-iterator-pattern)
+  * [The Command Pattern](/chapters/the-command-pattern)
