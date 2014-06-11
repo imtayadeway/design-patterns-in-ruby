@@ -8,3 +8,4 @@ Chapters:
 * [The Iterator Pattern](/chapters/the-iterator-pattern)
 * [The Command Pattern](/chapters/the-command-pattern)
 * [The Adapter Pattern](/chapters/the-adapter-pattern)
+* [The Proxy Pattern](/chapters/the-proxy-pattern)
