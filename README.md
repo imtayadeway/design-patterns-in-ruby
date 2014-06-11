@@ -11,3 +11,4 @@ Notes from the book of the same name, by Russ Olsen.
   * [The Iterator Pattern](/chapters/the-iterator-pattern)
   * [The Command Pattern](/chapters/the-command-pattern)
   * [The Adapter Pattern](/chapters/the-adapter-pattern)
+  * [The Proxy Pattern](/chapters/the-proxy-pattern)
