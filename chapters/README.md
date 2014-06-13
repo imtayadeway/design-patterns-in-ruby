@@ -10,3 +10,4 @@ Chapters:
 * [The Adapter Pattern](/chapters/the-adapter-pattern)
 * [The Proxy Pattern](/chapters/the-proxy-pattern)
 * [The Decorator Pattern](/chapters/the-decorator-pattern)
+* [The Singleton Pattern](/chapters/the-singleton-pattern)
