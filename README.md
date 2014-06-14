@@ -14,3 +14,4 @@ Notes from the book of the same name, by Russ Olsen.
   * [The Proxy Pattern](/chapters/the-proxy-pattern)
   * [The Decorator Pattern](/chapters/the-decorator-pattern)
   * [The Singleton Pattern](/chapters/the-singleton-pattern)
+  * [The Factory Pattern](/chapters/the-factory-pattern)

@@ -11,3 +11,4 @@ Chapters:
 * [The Proxy Pattern](/chapters/the-proxy-pattern)
 * [The Decorator Pattern](/chapters/the-decorator-pattern)
 * [The Singleton Pattern](/chapters/the-singleton-pattern)
+* [The Factory Pattern](/chatpers/the-factory-pattern)
