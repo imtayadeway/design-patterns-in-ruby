@@ -15,4 +15,4 @@ Notes from the book of the same name, by Russ Olsen.
   * [The Decorator Pattern](/chapters/the-decorator-pattern)
   * [The Singleton Pattern](/chapters/the-singleton-pattern)
   * [The Factory Method Pattern](/chapters/the-factory-method-pattern)
-  * [The Abstract Factory Pattern](/chatpers/the-abstract-factory-pattern)
+  * [The Abstract Factory Pattern](/chapters/the-abstract-factory-pattern)

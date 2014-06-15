@@ -11,5 +11,5 @@ Chapters:
 * [The Proxy Pattern](/chapters/the-proxy-pattern)
 * [The Decorator Pattern](/chapters/the-decorator-pattern)
 * [The Singleton Pattern](/chapters/the-singleton-pattern)
-* [The Factory Method Pattern](/chatpers/the-factory-method-pattern)
+* [The Factory Method Pattern](/chapters/the-factory-method-pattern)
 * [The Abstract Factory Pattern](/chapters/the-abstract-factory-pattern)
