@@ -13,3 +13,4 @@ Chapters:
 * [The Singleton Pattern](/chapters/the-singleton-pattern)
 * [The Factory Method Pattern](/chapters/the-factory-method-pattern)
 * [The Abstract Factory Pattern](/chapters/the-abstract-factory-pattern)
+* [The Builder Pattern](/chapters/the-builder-pattern)
