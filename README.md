@@ -17,3 +17,4 @@ Notes from the book of the same name, by Russ Olsen.
   * [The Factory Method Pattern](/chapters/the-factory-method-pattern)
   * [The Abstract Factory Pattern](/chapters/the-abstract-factory-pattern)
   * [The Builder Pattern](/chapters/the-builder-pattern)
+  * [The Interpreter Pattern](/chapters/the-interpreter-pattern)
