@@ -29,7 +29,6 @@ end
 ```
 ```ruby
 # app/controllers/dashboards_controller.rb:
-
 class DashboardsController < ApplicationController
   before_filter :authorize
 
@@ -38,10 +37,8 @@ class DashboardsController < ApplicationController
   end
 end
 ```
-
-```ruby
+```erb
 # app/views/dashboards/show.html.erb:
-
 <%= render 'profile' %>
 <%= render 'groups', groups: @dashboard.group %>
 
