@@ -1,4 +1,4 @@
-the facade pattern
+The Facade Pattern
 ------------------
 
 1. Useful in Rails controllers to avoid instantiating more than one object.
