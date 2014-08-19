@@ -18,3 +18,6 @@ Notes from the book of the same name, by Russ Olsen.
   * [The Abstract Factory Pattern](/chapters/the-abstract-factory-pattern)
   * [The Builder Pattern](/chapters/the-builder-pattern)
   * [The Interpreter Pattern](/chapters/the-interpreter-pattern)
+* [Additional](/additional)
+  * [The Facade Pattern](/additional/the-facade-pattern)
+  * [The Null Object Pattern](/additional/the-null-object-pattern)
